@@ -132,7 +132,7 @@ export default function Home() {
               Programmed a 3D third-person shooter handling player movement, collision detection, and custom shooting mechanics.
             </p>
             <div className="flex gap-2">
-              <span className="text-xs bg-neutral-800 text-neutral-300 px-2.5 py-1 rounded">C#</span>
+              <span className="text-xs bg-neutral-800 text-neutral-300 px-2.5 py-1 rounded">C++</span>
               <span className="text-xs bg-neutral-800 text-neutral-300 px-2.5 py-1 rounded">Blender</span>
             </div>
           </div>
