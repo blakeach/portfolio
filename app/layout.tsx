@@ -9,7 +9,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name | Portfolio",
+  title: "Blake Acharjee | Portfolio",
   description: "Full-Stack Engineer & CS Student",
 };
 
