@@ -6,8 +6,7 @@ export default function Home() {
       
       {/* 1. Header / Terminal Title */}
       <header className="flex justify-between items-center border-b border-neutral-800 pb-4">
-        <span className="text-sm text-neutral-400">Blake Acharjee ~/ portfolio</span>
-        
+        <span className="text-sm text-neutral-400">Blake Acharjee ~/ portfolio</span>        
         <nav className="space-x-4 text-sm text-neutral-400">
           <a href="#about" className="hover:text-white transition-colors">about</a>
           <a href="#skills" className="hover:text-white transition-colors">skills</a>
